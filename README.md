@@ -13,9 +13,9 @@ Bahasa: **Bahasa Indonesia** · [English](./README.en.md)
 
 ---
 
-## 🌐 Website baru kami: [agriflow.farm](https://www.agriflow.farm/)
+## 🌐 Website: [agriflow.farm](https://www.agriflow.farm/)
 
-AgriFlow sekarang punya alamat sendiri di **[www.agriflow.farm](https://www.agriflow.farm/)**. Buka halamannya, klik **"Lihat Dashboard sebagai Tamu"**, dan Anda langsung bisa melihat peta, rekomendasi distribusi, prakiraan harga, dan simulasi what-if tanpa membuat akun. Akun dinas dan mitra masuk lewat tombol **"Masuk untuk dinas & mitra"**.
+AgriFlow dapat diakses di **[www.agriflow.farm](https://www.agriflow.farm/)**. Buka halamannya, klik **"Lihat Dashboard sebagai Tamu"**, dan Anda langsung bisa melihat peta, rekomendasi distribusi, prakiraan harga, dan simulasi what-if tanpa membuat akun. Akun dinas dan mitra masuk lewat tombol **"Masuk untuk dinas & mitra"**.
 
 <p align="center"><img src="assets/landing.png" alt="Halaman depan agriflow.farm" width="100%"/></p>
 
@@ -136,6 +136,6 @@ Dibangun untuk PIDI DIGDAYA x Hackathon 2026 Bank Indonesia.
 
 Hilmi · [master-hilmi.vercel.app](https://master-hilmi.vercel.app/)
 
-Ingin bekerja sama, menguji coba di daerah Anda, atau meminta akses kode? Hubungi kami lewat tautan di atas.
+Ingin bekerja sama atau menguji coba AgriFlow di daerah Anda? Hubungi kami lewat tautan di atas.
 
 <p align="center"><em>Deteksi · Prediksi · Distribusi, untuk ketahanan pangan Indonesia.</em></p>
