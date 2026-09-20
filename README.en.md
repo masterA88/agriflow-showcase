@@ -109,7 +109,7 @@ It has three functions:
 ## Where it stands
 
 - Running in production at [agriflow.farm](https://www.agriflow.farm/), with guest access for reviewers.
-- Engine version 1.1.0, with 693 automated tests passing.
+- Engine version 1.1.0, with 699 automated tests passing.
 - Tried by five early testers (farmers and one researcher), with the need validated through interviews with four farmers across different commodities.
 
 ## Known limits

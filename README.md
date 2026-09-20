@@ -109,7 +109,7 @@ Tiga fungsinya:
 ## Status saat ini
 
 - Berjalan di produksi di [agriflow.farm](https://www.agriflow.farm/), dengan akses tamu untuk peninjauan.
-- Mesin versi 1.1.0, dengan 693 uji otomatis yang lulus.
+- Mesin versi 1.1.0, dengan 699 uji otomatis yang lulus.
 - Sudah dicoba oleh lima penguji awal (petani dan satu peneliti), dan kebutuhannya divalidasi lewat wawancara dengan empat petani lintas komoditas.
 
 ## Batasan yang kami akui
